@@ -1,10 +1,10 @@
-import Home from './pages/Home';
+import HomePage from './pages/HomePage';
 import { createBrowserRouter, RouterProvider } from 'react-router';
-
+import './App.css';
 const router = createBrowserRouter([
 	{
 		path: '/',
-		element: <Home />,
+		element: <HomePage />,
 	},
 ]);
 
