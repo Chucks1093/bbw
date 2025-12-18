@@ -2,7 +2,7 @@ function Hero() {
 	return (
 		<section className="flex items-center  h-[90vh] border-b border-b-zinc-300">
 			<div className="max-w-6xl mx-auto w-full relative top-5">
-				<h1 className="text-4xl text-zinc-800 md:text-5xl font-semibold tracking-tight leading-snug font-manrope max-w-5xl">
+				<h1 className="text-4xl text-zinc-800 md:text-5xl font-semibold tracking-tight leading-snug font-manrope max-w-4xl">
 					I help early-stage founders, startups, and SMEs ship real web
 					products in weeks.
 				</h1>

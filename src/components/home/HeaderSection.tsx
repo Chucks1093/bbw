@@ -9,7 +9,7 @@ function HeaderSection() {
 					className="font-manrope font-bold text-2xl  text-zinc-700"
 				>
 					BBS{' '}
-					<span className="font-bold text-5xl bg-yellow-400 size-2 inline-block rounded-full" />
+					<span className="font-bold text-5xl bg-yellow-300 size-2 inline-block rounded-full" />
 				</Link>
 			</div>
 		</header>
