@@ -18,11 +18,12 @@ function ProofSection() {
 								My Toilet, My Dignity
 							</h3>
 							<p className="mt-2 text-gray-600">
-								Worked on the frontend of a citizen reporting platform
-								supporting the Clean Nigeria: Use the Toilet campaign,
-								focused on building user-facing interfaces for reporting
-								sanitation conditions and promoting community
-								accountability.
+								Worked across frontend and backend on a citizen-powered
+								sanitation reporting platform supporting the Clean
+								Nigeria: Use the Toilet campaign. Built public reporting
+								flows, admin dashboards, backend APIs, authentication,
+								and data management for real-time sanitation insights
+								and community accountability.
 							</p>
 						</div>
 
