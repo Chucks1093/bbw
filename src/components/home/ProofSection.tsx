@@ -14,11 +14,15 @@ function ProofSection() {
 
 					<div className="mt-10 space-y-8">
 						<div>
-							<h3 className="text-xl font-medium">Open Single Eye</h3>
+							<h3 className="text-xl font-medium">
+								My Toilet, My Dignity
+							</h3>
 							<p className="mt-2 text-gray-600">
-								Built the frontend for a habit-tracking product using
-								existing designs and APIs, focusing on turning early
-								work into a usable, production-ready web app.
+								Worked on the frontend of a citizen reporting platform
+								supporting the Clean Nigeria: Use the Toilet campaign,
+								focused on building user-facing interfaces for reporting
+								sanitation conditions and promoting community
+								accountability.
 							</p>
 						</div>
 
