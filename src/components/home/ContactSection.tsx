@@ -5,7 +5,7 @@ function ContactSection() {
 		<section className="w-full">
 			<div className="max-w-6xl mx-auto px-4 py-24">
 				<div className="max-w-3xl">
-					<h2 className="text-3xl md:text-4xl font-semibold tracking-tight">
+					<h2 className="text-3xl md:text-4xl font-semibold tracking-tight font-manrope">
 						Let’s talk
 					</h2>
 
