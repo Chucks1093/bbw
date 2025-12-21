@@ -1,7 +1,9 @@
+import { openEmail } from '@/utils/openEmail';
+
 function FooterSection() {
 	return (
 		<footer className="border-t border-gray-200">
-			<div className="max-w-6xl mx-auto px-4 py-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 text-sm text-gray-600">
+			<div className="max-w-6xl mx-auto px-4 py-8 flex  items-start md:items-center justify-between gap-4 text-sm text-gray-600">
 				<p>© {new Date().getFullYear()} Sebastian</p>
 
 				<div className="flex gap-4">
@@ -13,12 +15,9 @@ function FooterSection() {
 					>
 						LinkedIn
 					</a>
-					<a
-						href="mailto:aniokechukwudi7@gmail.com"
-						className="hover:text-black"
-					>
+					<button onClick={openEmail} className="hover:text-black">
 						Email
-					</a>
+					</button>
 				</div>
 			</div>
 		</footer>

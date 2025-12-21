@@ -24,6 +24,13 @@ function ProofSection() {
 								submissions, live statistics, and data visibility across
 								States and LGAs.
 							</p>
+
+							<a
+								href="/case-studies/my-toilet-my-dignity"
+								className="inline-block mt-2 text-sm text-zinc-700 underline hover:text-zinc-900"
+							>
+								View case study
+							</a>
 						</div>
 
 						<div>
