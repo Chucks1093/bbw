@@ -15,7 +15,7 @@ function ProofSection() {
 					<div className="mt-10 space-y-8">
 						<div>
 							<h3 className="text-xl font-medium">
-								Sanitation Reporting Platform
+								National Sanitation Reporting Platform
 							</h3>
 							<p className="mt-2 text-gray-600">
 								A citizen powered platform for reporting toilet
