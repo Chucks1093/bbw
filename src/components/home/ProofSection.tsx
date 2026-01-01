@@ -32,12 +32,18 @@ function ProofSection() {
 						</div>
 
 						<div>
-							<h3 className="text-xl font-medium">Nora Tutor</h3>
+							<h3 className="text-xl font-medium">Nora AI</h3>
 							<p className="mt-2 text-gray-600">
-								Co-built an AI-powered learning platform used by
-								hundreds of users, working across frontend and backend
-								to support real usage and iteration.
+								Video tutoring platform that lets university students
+								and adult learners have real conversations with AI
+								tutors
 							</p>
+							<a
+								href="/case-studies/nora-tutor"
+								className="inline-block mt-2 text-sm text-zinc-700 underline hover:text-zinc-900"
+							>
+								View case study
+							</a>
 						</div>
 
 						<div>

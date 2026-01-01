@@ -17,6 +17,12 @@ const router = createBrowserRouter([
 			<CaseStudyPage markdownPath="https://bbs.t3.storage.dev/case-studies/my-toilet-my-dignity.md" />
 		),
 	},
+	{
+		path: '/case-studies/nora-tutor',
+		element: (
+			<CaseStudyPage markdownPath="https://bbs.t3.storage.dev/case-studies/nora-tutor.md" />
+		),
+	},
 ]);
 
 function App() {
