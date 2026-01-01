@@ -9,7 +9,7 @@ function ProofSection() {
 
 					<p className="mt-4 text-gray-600">
 						A few examples of products and systems I’ve worked on
-						recently. More detailed case studies will be added over time.
+						recently.
 					</p>
 
 					<div className="mt-10 space-y-8">
