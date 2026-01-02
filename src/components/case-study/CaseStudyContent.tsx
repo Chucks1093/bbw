@@ -44,7 +44,7 @@ const MarkdownComponents = {
 	),
 	h3: ({ children, ...props }: MarkdownComponentProps<'h3'>) => (
 		<h3
-			className="text-2xl font-montserrat font-medium text-gray-700 mt-8 mb-4"
+			className="text-2xl font-manrope font-medium text-gray-700 mt-8 mb-4"
 			{...props}
 		>
 			{children}
@@ -52,7 +52,7 @@ const MarkdownComponents = {
 	),
 	h4: ({ children, ...props }: MarkdownComponentProps<'h4'>) => (
 		<h4
-			className="text-xl font-montserrat font-medium text-gray-700 mt-6 mb-3"
+			className="text-xl font-manrope font-medium text-gray-700 mt-6 mb-3"
 			{...props}
 		>
 			{children}

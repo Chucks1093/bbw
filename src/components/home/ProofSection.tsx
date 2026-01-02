@@ -8,7 +8,7 @@ function ProofSection() {
 					</h2>
 
 					<p className="mt-4 text-gray-600">
-						A few examples of products and systems I’ve worked on
+						A few examples of products and systems I've worked on
 						recently.
 					</p>
 
@@ -38,6 +38,7 @@ function ProofSection() {
 								and adult learners have real conversations with AI
 								tutors
 							</p>
+
 							<a
 								href="/case-studies/nora-tutor"
 								className="inline-block mt-2 text-sm text-zinc-700 underline hover:text-zinc-900"
@@ -47,14 +48,19 @@ function ProofSection() {
 						</div>
 
 						<div>
-							<h3 className="text-xl font-medium">
-								Business landing page
-							</h3>
+							<h3 className="text-xl font-medium">Articulate</h3>
 							<p className="mt-2 text-gray-600">
-								Designed and built a fast, production-ready landing
-								page, handled deployment, and connected the domain so
-								the business could go live quickly.
+								Multi-language article translation platform that
+								converts online articles into beautifully formatted PDFs
+								in 120+ languages
 							</p>
+
+							<a
+								href="/case-studies/articulate"
+								className="inline-block mt-2 text-sm text-zinc-700 underline hover:text-zinc-900"
+							>
+								View case study
+							</a>
 						</div>
 					</div>
 				</div>

@@ -23,6 +23,12 @@ const router = createBrowserRouter([
 			<CaseStudyPage markdownPath="https://bbs.t3.storage.dev/case-studies/nora-tutor.md" />
 		),
 	},
+	{
+		path: '/case-studies/articulate',
+		element: (
+			<CaseStudyPage markdownPath="https://bbs.t3.storage.dev/case-studies/articulate.md" />
+		),
+	},
 ]);
 
 function App() {
