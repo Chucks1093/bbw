@@ -1,3 +1,8 @@
 {
-	"rewrites": [{ "source": "/(.*)", "destination": "/" }]
+	"rewrites": [
+		{
+			"source": "/fragments/:path*",
+			"destination": "https://fragments-blond.vercel.app/:path*"
+		}
+	]
 }
